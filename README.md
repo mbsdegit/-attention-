@@ -4,7 +4,7 @@
 In order to extract the charge of the criminal in the judgment document description, we transform the multi-charge prediction into the multi-label prediction and carry out the task of multi-charge prediction of one person with multiple crimes and multiple punishments. In our proposed model, the nested attention mechanism is used as the encoder to encode the criminal fact description, and the LSTM is used as the basic unit of the decoder to predict the accusation of the information representation. On the one hand, the model integrates the logical relationship between charges into the model, on the other hand, it enhances the information flow through the encoder-decoder attention. The model is used in multi-charge datasets CAIL and CJO, and compared with BR, CC, LP and fact_ Law, Han + threshold, RCNN, textcnn, seq2seq + att and other multi label prediction models, our model has achieved the best results on both datasets.
 
 # -Paper data and code-
-This is the code for the IEEE ACCESS Paper: Sequence Generation Network Based on Hierarchical Attention for Multi-Charge Prediction. We have implemented our methods in both Tensorflow.
+This is the code for the IEEE ACCESS Paper: [Sequence Generation Network Based on Hierarchical Attention for Multi-Charge Prediction](https://ieeexplore.ieee.org/abstract/document/9103518). We have implemented our methods in both Tensorflow.
 Here are two datasets we used in our paper：
 
 CJO :http://wenshu.court.gov.cn/
