@@ -6,5 +6,6 @@ In order to extract the charge of the criminal in the judgment document descript
 # -Paper data and code-
 This is the code for the IEEE ACCESS Paper: Sequence Generation Network Based on Hierarchical Attention for Multi-Charge Prediction. We have implemented our methods in both Tensorflow.
 Here are two datasets we used in our paper：
+
 CJO :http://wenshu.court.gov.cn/
 CAIL:http://cail.cipsc.org.cn/index.html
