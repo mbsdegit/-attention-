@@ -10,3 +10,6 @@ Here are two datasets we used in our paper：
 CJO :http://wenshu.court.gov.cn/
 
 CAIL:http://cail.cipsc.org.cn/index.html
+
+# -Usage-
+You need to run the file 'datasets/preprocess.py' first to preprocess the data
