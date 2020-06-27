@@ -22,17 +22,17 @@ For example: cd tensorflow_code; python main.py --dataset=sample
 
 You can also change other parameters according to the usage:
 
-`usage: main.py [-h] [--dataset DATASET] [--batchSize BATCHSIZE]
-               [--hiddenSize HIDDENSIZE] [--epoch EPOCH] [--lr LR]
-               [--lr_dc LR_DC] [--lr_dc_step LR_DC_STEP] [--l2 L2]
-               [--step STEP] [--patience PATIENCE] [--nonhybrid]
-               [--validation] [--valid_portion VALID_PORTION]
+`usage: main.py [-h] [--dataset DATASET] [--batchSize BATCHSIZE]`
+`               [--hiddenSize HIDDENSIZE] [--epoch EPOCH] [--lr LR]`
+`               [--lr_dc LR_DC] [--lr_dc_step LR_DC_STEP] [--l2 L2]`
+`               [--step STEP] [--patience PATIENCE] [--nonhybrid]`
+`              [--validation] [--valid_portion VALID_PORTION]`
 
-optional arguments:
-  -h, --help            show this help message and exit
-  --dataset DATASET     dataset name:
-                        diginetica/yoochoose1_4/yoochoose1_64/sample
-  --batchSize BATCHSIZE
+`optional arguments:`
+`  -h, --help            show this help message and exit`
+`  --dataset DATASET     dataset name:`
+`                        diginetica/yoochoose1_4/yoochoose1_64/sample`
+`  --batchSize BATCHSIZE`
                         input batch size
   --hiddenSize HIDDENSIZE
                         hidden state size
