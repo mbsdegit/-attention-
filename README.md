@@ -8,4 +8,5 @@ This is the code for the IEEE ACCESS Paper: Sequence Generation Network Based on
 Here are two datasets we used in our paper：
 
 CJO :http://wenshu.court.gov.cn/
+
 CAIL:http://cail.cipsc.org.cn/index.html
